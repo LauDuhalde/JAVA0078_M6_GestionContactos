@@ -43,8 +43,6 @@ JAVA0078_M6_GestionContactos
 │	         └─ views/
 │	             ├─ formulario.jsp
 │	             └─ lista.jsp
-├─ target/
-│	 └─ JAVA0078_M6_GestionContactos-1.0.0.war
 ├─ despliegue tomcat.png
 ├─ pom.xml
 └─ README.md
